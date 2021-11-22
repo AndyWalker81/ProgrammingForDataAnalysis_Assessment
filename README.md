@@ -10,7 +10,7 @@
 
 ## Description of Notebook
 
-The notebook contains an explanation of a number of features of the numpy.random package:
+The Jupyter notebook associated with the README contains an explanation of a number of features of the numpy.random package:
 
 - Simple random data
 - Permutations
@@ -31,6 +31,8 @@ Use of the notebook requires the following Python packages to be initalised:
 
 In addition, a Generator needs to be constructed. 
 
+These packages and the Generator will be initialised and constructed upon running the code contained within the notebook.
+
 At the time of writing this README and the notebook, the most recent release of numpy.random is 1.21.0. This contents of the notebook are based on this release.
 
 All references are provided in Section 6 of the notebook.
@@ -42,5 +44,5 @@ You can view the Notebook in static form by clicking the following image: [![nbv
 
 You can view the Notebook in dynamic form by clicking the following image: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndyWalker81/ProgrammingForDataAnalysis_Assessment/HEAD?labpath=numpy-random.ipynb)
 
-https://github.com/AndyWalker81/ProgrammingForDataAnalysis_Assessment/blob/main/numpy-random.ipynb
+
 
